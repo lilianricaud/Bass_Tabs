@@ -2,6 +2,8 @@
      Stubb (A Dub) - Mr Bungle
 ----------------------------------------------------------------------------
 
+<iframe width="480" height="360" src="https://www.youtube.com/embed/-RBSrUtX0bA" frameborder="0" allowfullscreen></iframe>
+
 https://www.youtube.com/watch?v=-RBSrUtX0bA
 
 Tabbed By : Jacob Parker
